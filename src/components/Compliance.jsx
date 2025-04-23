@@ -176,7 +176,7 @@ function Compliance() {
   return (
   
 
-<div className="content-section" id="compliance-center-content" style={{ display: 'none' }}>
+<div className="content-section" id="compliance-center-content">
   <div className="cards" style={{ marginBottom: '30px' }}>
     <div className="card">
       <h3>Intrusion Sets</h3>

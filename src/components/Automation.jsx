@@ -16,7 +16,7 @@ function Automation()
       });
     return(
 
-        <div className="content-section" id="automation-center-content" style={{ display: 'none' }}>
+        <div className="content-section" id="automation-center-content" >
   <h2>Automation Center</h2>
   <p>Welcome to the Automation Center. Here you can orchestrate and manage various automation tools and workflows.</p>
   <div style={{ marginBottom: '20px', textAlign: 'right' }}>

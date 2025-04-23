@@ -2,7 +2,7 @@
 function Integrations()
 {
     return(
-<div className="content-section" id="integrations-content" style={{ display: 'none' }}>
+<div className="content-section" id="integrations-content">
   <h2>Integrations</h2>
   <p>Connect with external systems, configure APIs, set up webhooks, and integrate with third-party services for seamless workflows.</p>
 

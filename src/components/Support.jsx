@@ -2,7 +2,7 @@
 function Support(){
 
     return(
-        <div className="content-section" id="support-center-content" style={{ display: 'none' }}>
+        <div className="content-section" id="support-center-content" >
         <h2>Support Center</h2>
         <p>Access help resources, manage support tickets, and engage with automated or human support for fast issue resolution.</p>
       

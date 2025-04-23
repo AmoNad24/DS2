@@ -1,6 +1,6 @@
 function AIML() {
   return (
-    <div className="content-section" id="aiml-hub-content" style={{ display: 'none' }}>
+    <div className="content-section" id="aiml-hub-content">
   <h2>AI/ML Hub</h2>
   <p>The AI/ML Hub provides tools and insights to manage your machine learning lifecycle effectively, from data preparation to deployment.</p>
 

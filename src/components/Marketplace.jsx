@@ -1,7 +1,7 @@
 function Marketplace()
 {
     return(
-<div className="content-section" id="marketplace-content" style={{ display: 'none' }}>
+<div className="content-section" id="marketplace-content" >
   <h2>Marketplace</h2>
   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '20px', marginTop: '20px' }}>
     <div className="panel"><div style={{ textAlign: 'center' }}>
